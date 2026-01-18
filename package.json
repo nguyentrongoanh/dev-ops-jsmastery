@@ -1,0 +1,13 @@
+{
+  "name": "dev-ops-jsmastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
